@@ -1,0 +1,1 @@
+In this project, I have created the RTL for I2S and also tried to create an testbench for it.
